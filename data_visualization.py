@@ -36,4 +36,4 @@ def data_visual(path):
 
 
 if __name__ == '__main__':
-    data_visual(r'C:\Users\i-caijingxuan\Desktop\流量分析\比特流')
+    data_visual(r'C:\Users\***\Desktop\流量分析\比特流')
